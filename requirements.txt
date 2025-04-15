@@ -1,0 +1,8 @@
+# instead of installing packages individually from cmd by pip install command we can use this requirements.txt file
+# enter the names of all the required packages here and then directly install this entire file (by pip install -r requirements.txt)
+# that will install all the packages present inside it by a single command
+
+pandas # numpy is installed by default along with pandas
+numpy
+
+-e.

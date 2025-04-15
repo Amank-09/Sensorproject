@@ -1,0 +1,3 @@
+# when project is pushed in github repo , some folders are not required, those folder names are written here to ignore them.
+
+venv/
