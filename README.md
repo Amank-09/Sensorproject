@@ -70,10 +70,9 @@ http://localhost:5000
 
 ---
 
-# 🖼 **UI Screenshots (Add later)**
+# 🖼 **UI Screenshot**
 
-```
-![Prediction Page](docs/predict_ui.png)
+![Prediction Page](<img width="1450" height="900" alt="Screenshot 2025-11-25 153149" src="https://github.com/user-attachments/assets/30fbac34-101c-43c4-a8aa-d31486b9591f" />)
 ![Upload Page](docs/upload_ui.png)
 ```
 
