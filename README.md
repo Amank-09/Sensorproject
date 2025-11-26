@@ -33,30 +33,11 @@ The system supports **data ingestion**, **data transformation**, **model trainin
 
 The project follows a modular, clean architecture with dedicated pipelines:
 
-```
-src/
-│
-├── pipeline/
-│   ├── train_pipeline.py
-│   └── predict_pipeline.py
-│
-├── components/
-│   ├── data_ingestion.py
-│   ├── data_transformation.py
-│   └── model_trainer.py
-│
-├── logger/
-│   └── logging.py
-│
-└── exception/
-    └── exception.py
-
 ---
 
 # 📂 **How to Run the Project Locally**
 
 ### **1. Clone Repo**
-
 ```
 git clone <your-repo-url>
 cd sensor-fault-detection
