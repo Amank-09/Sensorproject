@@ -72,7 +72,7 @@ http://localhost:5000
 
 # 🖼 **UI Screenshot**
 ```
-![Prediction Page](https://github.com/user-attachments/assets/30fbac34-101c-43c4-a8aa-d31486b9591f)
+![Prediction Page](https://github.com/user-attachments/assets/30fbac34-101c-43c4-a8aa-d31486b9591f?raw=1)
 ```
 
 ---
